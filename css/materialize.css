@@ -4526,7 +4526,7 @@ dl li {
   background-color: #f2f2f2;
   border-radius: 3px;
   margin-right: 0.5em;
-  font-size: 0.8em;
+  font-size: 1.2em;
 }
 
 dd {
@@ -9099,4 +9099,3 @@ input[type=range]::-ms-thumb {
     margin-top: 1.2rem;
   }
 }
-
